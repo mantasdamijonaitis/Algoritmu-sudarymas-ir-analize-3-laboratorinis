@@ -1,0 +1,6 @@
+c:\users\mantas.damijonaitis\documents\visual studio 2017\Projects\AlgorithmsThird\AlgorithmsThird\bin\Debug\AlgorithmsThird.exe.config
+c:\users\mantas.damijonaitis\documents\visual studio 2017\Projects\AlgorithmsThird\AlgorithmsThird\bin\Debug\AlgorithmsThird.exe
+c:\users\mantas.damijonaitis\documents\visual studio 2017\Projects\AlgorithmsThird\AlgorithmsThird\bin\Debug\AlgorithmsThird.pdb
+c:\users\mantas.damijonaitis\documents\visual studio 2017\Projects\AlgorithmsThird\AlgorithmsThird\obj\Debug\AlgorithmsThird.csprojResolveAssemblyReference.cache
+c:\users\mantas.damijonaitis\documents\visual studio 2017\Projects\AlgorithmsThird\AlgorithmsThird\obj\Debug\AlgorithmsThird.exe
+c:\users\mantas.damijonaitis\documents\visual studio 2017\Projects\AlgorithmsThird\AlgorithmsThird\obj\Debug\AlgorithmsThird.pdb
